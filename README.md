@@ -1,0 +1,1 @@
+# vk_friends_analysis_obsolete
